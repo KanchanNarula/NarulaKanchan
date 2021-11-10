@@ -1,6 +1,6 @@
 node_modules/
 # Ignore all .env files
-*.env
+.env
 # z generated files - Ignore all files starting with "z"
 z*
 # Root config folder - Ignore this directory at the root due to leading slash
